@@ -1,5 +1,4 @@
 ## Good morning! ☀️
-
 My name is Chanwoo Yoon, a senior studying Computer Science 💻 at MIT. My focus is mostly on learning (ML) 🛠 and inference/predictions 📈, but I am also interested in system designs!
 
 As to my skills, I am proficient in Python, Java, C/C++, and TypeScript/JavaScript. I am intermediate in R, Rust, and SQL. I am quite a beginner in Golang!
@@ -19,7 +18,4 @@ And I am also participating in the MIT AI Alignmnet program ([MAIA](https://www.
 
 I like to fiddle with code. There are some projects that never got to see the light of day as I was not into using GitHub to publish my projects openly and as my laptop got wiped out last summer (😇). But those that I can recover, they will be added to this page as time passes by.
 
-But there are some main ones that I maintain and update:
-- One open project is a custom static site that I designed for blogging purposes. It contains descriptions about my various projects. You can visit using the [link](https://yooncw0223-github-io.vercel.app/#/) here.
-
-For any questions, feel free to email me at chanwooy@mit.edu!
+But there are some main ones that I maintain and update. To learn about them, you can visit my static blog site using this [link](https://yooncw0223-github-io.vercel.app/#/). For any questions, feel free to email me at chanwooy@mit.edu!
